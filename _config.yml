@@ -25,7 +25,7 @@ author:
   name             : "Harrison Shieh"
   chname           : "謝博文"
   bio              : "Assistant Professor of Economics "
-  location         : "Poughkeepsie, New York"
+  location         : # "Poughkeepsie, New York"
   employer         : "Vassar College"
   uri              : # URL
   email            : "hashieh@ucsc.edu" 
