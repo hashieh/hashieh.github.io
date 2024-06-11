@@ -11,8 +11,3 @@ collection: portfolio
 * ![Korea 2](/files/gallery/kor2.jpg)
 * ![Korea 3](/files/gallery/kor3.jpg)
 ------
-<script src="files/md-gallery.js"></script>
-
-<script>
-    md_gallery();
-</script>
