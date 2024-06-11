@@ -16,6 +16,7 @@ author_profile: true
 
 **Recommended Citation**: Shieh, Harrison. (2024). "Can You Hear Me Now? Identifying the Effect of Chinese Monetary Policy Announcements." *Journal of International Money and Finance*. Vol. 144.
 <br>
+
 <a href="https://doi.org/10.1016/j.jimonfin.2024.103078" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Open-Access Download</a>
 
 <h1 style="text-align: center;"> Working Papers </h1>
@@ -37,6 +38,7 @@ author_profile: true
 
 **Recommended Citation**: Shieh, Harrison. (2021). "What They Do in the Shadows: Chinese Shadow Credit Growth and Monetary Policy." *UC Santa Cruz CAFIN Working Paper No. 2216*.
 <br>
+
 <a href="https://www.dropbox.com/scl/fi/98b9zejekfnpkmukcmnwz/ChinaShadowMP_Manuscript_v1.pdf?rlkey=hllynt18v7fl3xvb5sfl8yfkp&dl=0" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Download Paper</a>
 
 
