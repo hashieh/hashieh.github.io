@@ -41,6 +41,3 @@ Recommended Citation: Shieh, Harrison. (2021). "What They Do in the Shadows: Chi
 ---
 
 
-
-<h1 style="text-align: center;"> Works in Progress </h1>.
----
