@@ -36,6 +36,10 @@ author_profile: true
 
 **Recommended Citation**: Shieh, Harrison. (2021). "What They Do in the Shadows: Chinese Shadow Credit Growth and Monetary Policy." *UC Santa Cruz CAFIN Working Paper No. 2216*.
 
+
+<a href="https://www.dropbox.com/scl/fi/98b9zejekfnpkmukcmnwz/ChinaShadowMP_Manuscript_v1.pdf?rlkey=hllynt18v7fl3xvb5sfl8yfkp&dl=0" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Download Paper</a>
+
+
 <a href="https://www.dropbox.com/scl/fi/98b9zejekfnpkmukcmnwz/ChinaShadowMP_Manuscript_v1.pdf?rlkey=hllynt18v7fl3xvb5sfl8yfkp&dl=0" style="font-size: inherit;">Download Paper</a>
 
 
