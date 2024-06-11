@@ -21,7 +21,7 @@ repository               : "hashieh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot.png"
   name             : "Harrison Shieh"
   pronouns         : # example: "she/her"  
   bio              : "Hi, I'm Harrison."
