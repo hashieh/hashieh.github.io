@@ -23,7 +23,7 @@ Recommended Citation: Shieh, Harrison. (2024). "Can You Hear Me Now? Identifying
 <h1 style="text-align: center;"> Working Papers </h1>
 
 ## Journey to the (North, South, East, and) West: Global Spillovers of Chinese Monetary Policy
-### Joint w/ Anirban Sanyal <br><sup>*Working Paper*, 2024. </sup>
+### Joint w/ Anirban Sanyal. *Working Paper*, 2024. 
 
 **Abstract**: Does Chinese monetary policy matter on a global stage? This study evaluates how Chinese monetary policy shocks are transmitted globally. We examine the role production linkages play in the global transmission of Chinese monetary policy shocks to global stock returns. Using a high-frequency measure of Chinese monetary policy shocks, we evaluate how Chinese monetary policy shocks propagate upstream and downstream through supply chains using a heterogeneous coefficient spatial autoregression (SAR) model. Three findings emerge. First, firms on both ends of the Chinese production network show negative country-industry level equity returns in response to a contractionary monetary policy shock. Second, approximately 70-78% of the observed equity responses to Chinese monetary policy shocks can be attributed to the network effect of firms being connected across global supply chains. Third, we attribute the observed heterogeneity in the equity responses across countries and industries to a country's degree of home-bias, which we demonstrate by simulating a standard small-open economy model with supply chain integration. We show that supply chains are a key channel for the global transmission of Chinese monetary policy.
 
