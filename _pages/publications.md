@@ -18,7 +18,6 @@ Recommended Citation: Shieh, Harrison. (2024). "Can You Hear Me Now? Identifying
 
 ---
 [Download Paper](https://doi.org/10.1016/j.jimonfin.2024.103078) 
----
 
 <h1 style="text-align: center;"> Working Papers </h1>
 
@@ -31,4 +30,19 @@ Recommended Citation: Sanyal, Anirban and Harrison Shieh. (2024). "Journey to th
 
 ---
 [Download Paper](https://www.dropbox.com/scl/fi/0evo70cxc26tachkx1u5r/PBOCSpillovers.pdf?rlkey=z4i6kar2102s88vzxerivx3i6&dl=0) \| [Slides](https://www.dropbox.com/scl/fi/yyr7a2fqqthta6czjb9zc/PBOC_GlobalSpillovers_Deck.pdf?rlkey=t92kbu1f1l6q8f5izqg7u3rm8&dl=0)
+
+## What They Do in the Shadows: Chinese Shadow Credit Growth and Monetary Policy
+### *UC Santa Cruz CAFIN Working Paper No. 2216*, 2021. 
+
+**Abstract**: This study seeks to evaluate the effect of Chinese monetary policy shocks on credit creation through the shadow banking sector in Mainland China. Identification is achieved by constructing a measure of monetary policy surprises based on changes to the 1-Year Interest Rate Swaps on the 7-Day Repo Rate on monetary policy announcement dates. A two-stage local projection was then estimated, using the surprise measure as an instrument. The results give two key findings: 1) shadow credit expands in response to contractionary monetary policy, and 2) there is additional evidence of the transmission of monetary policy through the interest rate channel 
+
+Recommended Citation: Shieh, Harrison. (2021). "What They Do in the Shadows: Chinese Shadow Credit Growth and Monetary Policy." *UC Santa Cruz CAFIN Working Paper No. 2216*.
+
 ---
+[Download Paper](https://www.dropbox.com/scl/fi/98b9zejekfnpkmukcmnwz/ChinaShadowMP_Manuscript_v1.pdf?rlkey=hllynt18v7fl3xvb5sfl8yfkp&dl=0) 
+
+
+
+
+<h1 style="text-align: center;"> Works in Progress </h1>.
+
