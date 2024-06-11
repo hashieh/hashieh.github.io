@@ -38,6 +38,10 @@
       {% endif %}
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
+      {% if author.officehours %}
+      <li><a href="{{ author.officehours }}"><i class="fab fa-solid fa-video"></i>Office Hours Appointments</a></li>
+    {% endif %}  
+
       {% if author.arxiv %}
         <li><a href="{{ author.arxiv }}"><i class="ai ai-arxiv ai-fw icon-pad-right"></i>arXiv</a></li>
       {% endif %}      
