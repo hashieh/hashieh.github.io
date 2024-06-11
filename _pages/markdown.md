@@ -1,11 +1,15 @@
 ---
 permalink: /markdown/
-title: "Research Test"
+title: "Research"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
+
+
+
+
 
 # Published Papers 
 
@@ -29,4 +33,5 @@ Recommended Citation: Shieh, Harrison. (2024). "Can You Hear Me Now? Identifying
 
 Recommended Citation: Sanyal, Anirban and Harrison Shieh. (2024). "Journey to the (North, South, East, and) West: Global Spillovers of Chinese Monetary Policy." *Working Paper*.
 
-[Download Paper](https://www.dropbox.com/scl/fi/0evo70cxc26tachkx1u5r/PBOCSpillovers.pdf?rlkey=z4i6kar2102s88vzxerivx3i6&dl=0) | [Slides](https://www.dropbox.com/scl/fi/yyr7a2fqqthta6czjb9zc/PBOC_GlobalSpillovers_Deck.pdf?rlkey=t92kbu1f1l6q8f5izqg7u3rm8&dl=0)
+[Download Paper](https://www.dropbox.com/scl/fi/0evo70cxc26tachkx1u5r/PBOCSpillovers.pdf?rlkey=z4i6kar2102s88vzxerivx3i6&dl=0) 
+[Slides](https://www.dropbox.com/scl/fi/yyr7a2fqqthta6czjb9zc/PBOC_GlobalSpillovers_Deck.pdf?rlkey=t92kbu1f1l6q8f5izqg7u3rm8&dl=0)
