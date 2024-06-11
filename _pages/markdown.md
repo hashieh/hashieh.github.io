@@ -5,13 +5,14 @@ author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
+  
 ---
+<br>
+<br>
+<br>
 
 
-
-
-
-# Published Papers 
+<h1 style="text-align: center;">Published Papers </h1>
 
 ## Can You Hear Me Now? Identifying the Effect of Chinese Monetary Policy Announcements
 ### Published in *Journal of International Money and Finance*, 2024
@@ -23,7 +24,7 @@ Recommended Citation: Shieh, Harrison. (2024). "Can You Hear Me Now? Identifying
 [Download Paper](https://doi.org/10.1016/j.jimonfin.2024.103078) 
 
 
-# Working Papers
+<h1 style="text-align: center;"> Working Papers </h1>
 
 ## Journey to the (North, South, East, and) West: Global Spillovers of Chinese Monetary Policy [Job Market Paper]
 ### (Joint w/ Anirban Sanyal)
