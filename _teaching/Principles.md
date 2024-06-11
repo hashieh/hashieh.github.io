@@ -2,7 +2,7 @@
 title: "Principles of Macroeconomics / Microeconomics"
 collection: teaching
 type: "Undergraduate"
-permalink: /teaching/metrics
+permalink: /teaching/principles
 venue: "Various"
 date: 
 location: 
