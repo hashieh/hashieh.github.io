@@ -9,8 +9,7 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  #- title: "Portfolio"
- #   url: /portfolio/
+ 
         
   - title: "Curriculum Vitae"
     url: /cv/
@@ -18,5 +17,8 @@ main:
  #- title: "Photography"
  #   url: /posts/
 
+ - title: "Photography"
+    url: /portfolio/
+    
   #- title: "Research"
  #   url: /markdown/

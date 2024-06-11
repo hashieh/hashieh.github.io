@@ -1,7 +1,18 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: 'Korea 2023 Photos'
+excerpt: "Selected Photos from Korea Trip"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+# Select Photos from Korea 2023 
+
+* ![Korea 1](/files/gallery/kor1.jpg)
+* ![Korea 2](/files/gallery/kor2.jpg)
+* ![Korea 3](/files/gallery/kor3.jpg)
+------
+<script src="files/md-gallery.js"></script>
+
+<script>
+    md_gallery();
+</script>
