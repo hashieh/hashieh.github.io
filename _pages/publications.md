@@ -16,7 +16,7 @@ author_profile: true
 
 Recommended Citation: Shieh, Harrison. (2024). "Can You Hear Me Now? Identifying the Effect of Chinese Monetary Policy Announcements." *Journal of International Money and Finance*. Vol. 144.
 
-[Download Paper](https://doi.org/10.1016/j.jimonfin.2024.103078) 
+[Open-Access Download](https://doi.org/10.1016/j.jimonfin.2024.103078) 
 ---
 
 <h1 style="text-align: center;"> Working Papers </h1>
