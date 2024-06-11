@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate"
 permalink: /teaching/metrics
 venue: "UC Santa Cruz"
-date: 
+date: 2023-06-01
 location: 
 ---
 This course presents the basics of econometrics and is taught in Stata.

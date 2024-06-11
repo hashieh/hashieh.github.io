@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate"
 permalink: /teaching/principles
 venue: "Various"
-date: 
+date: 2017-09-01
 location: 
 ---
 
