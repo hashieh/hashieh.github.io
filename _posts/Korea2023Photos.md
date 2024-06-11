@@ -7,7 +7,11 @@ tags:
   - category1
   - category2
 ---
+<script src="files/md-gallery.js"></script>
 
+<script>
+    md_gallery();
+</script>
 
 # Select Photos from Korea 2023 
 
@@ -16,8 +20,3 @@ tags:
 * ![Korea 3](/files/gallery/kor3.jpg)
 ------
 
-<script src="files/md-gallery.js"></script>
-
-<script>
-    md_gallery();
-</script>
