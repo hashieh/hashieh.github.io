@@ -15,6 +15,6 @@ I will be joining the Vassar College Economics Department as an Assistant Profes
 3. Chenyue Hu (UC Santa Cruz)
 4. Alonso Villacorta (UC Santa Cruz)
 
-Please feel free to email me [hashieh(at)ucsc.edu](hashieh@ucsc.edu) if you have any questions or would like to know more about my research! 
+Please feel free to email me [hashieh(at)ucsc.edu](mailto:hashieh@ucsc.edu) if you have any questions or would like to know more about my research! 
 
 

@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Harrison Shieh | Vassar College"
 title_separator          : "-"
 name                     : &name "Harrison Shieh"
-description              : &description "Assistnat Professor of Economics"
+description              : &description "Assistant Professor of Economics"
 url                      : https://hashieh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hashieh.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "headshot.png"
   name             : "Harrison Shieh"
   pronouns         : # example: "she/her"  
-  bio              : "Hi, I'm Harrison."
+  bio              : "Assistant Professor of Economics "
   location         : "Poughkeepsie, New York"
   employer         : "Vassar College"
   uri              : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
