@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Pubs"
+  - title: "Research"
     url: /research/
 
   #- title: "Talks"
@@ -18,5 +18,5 @@ main:
   - title: "C.V."
     url: /cv/
     
-  - title: "Research"
-    url: /markdown/
+  #- title: "Research"
+ #   url: /markdown/
