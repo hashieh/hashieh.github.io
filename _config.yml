@@ -12,7 +12,7 @@ title                    : "Harrison Shieh, Ph.D."
 title_separator          : "-"
 name                     : &name "Harrison Shieh"
 description              : &description "Assistant Professor of Economics"
-url                      : https://harrisonshieh.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.harrisonshieh.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hashieh.github.io"
 
