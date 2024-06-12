@@ -18,31 +18,37 @@ Monetary Policy, Macrofinance, Chinese Economy, and International Finance
 
 ## <span style="color: #00579C;">Education</span>
 *Ph.D. in Economics*
+
 **The University of California, Santa Cruz** (Sep. 2018 - Jun. 2024)  
 
 
 *M.A. in Economics*
+
 **The California State University, Fullerton** (Aug. 2015 - May. 2017)  
 
 
 *B.A. in Economics*
+
 **The University of California, Irvine** (Sep. 2013 - Jun. 2015)  
 
-
 *A.A. in Economics*
+
 **El Camino College** (Sep. 2011 - Jun. 2013)  
 
 
 ## <span style="color: #00579C;">Academic Positions / Experience</span>
 *Assistant Professor*
+
 **Vassar College** (Aug. 2024 - Present)  
 
 
 *2024 Spring Dissertation Fellow*
+
 **The Federal Reserve Bank of Boston** (Apr. 2022 - Jun. 2022)  
 
 
 *Associate Faculty*
+
 **Saddleback College** (Aug. 2017 - Present) 
 
 
