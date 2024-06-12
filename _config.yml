@@ -12,8 +12,8 @@ title                    : "Harrison Shieh, Ph.D."
 title_separator          : "-"
 name                     : &name "Harrison Shieh"
 description              : &description "Assistant Professor of Economics"
-url                      : https://hashieh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://harrisonshieh.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "www.harrisonshieh.com" # the subpath of your site, e.g. "/blog"
 repository               : "hashieh.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
