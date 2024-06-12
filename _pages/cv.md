@@ -10,7 +10,6 @@ redirect_from:
 This is a short version of my CV. My full CV can be downloaded here: [C.V.](https://www.dropbox.com/home/Career%20Files/SharedCV)
 
 # Harrison Shieh
-### <span style="color: #00579C;">Assistant Professor of Economics | Vassar College</span>
 ## <span style="color: #00579C;">Research Interests</span>
 Monetary Policy, Macrofinance, Chinese Economy, and International Finance
 ## <span style="color: #00579C;">Education</span>
