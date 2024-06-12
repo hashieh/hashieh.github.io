@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 This is a short version of my CV. My full CV can be downloaded here: <a href="www.dropbox.com/scl/fo/88tgphinc869rw4qku3gh/AA8YQyNe0R3uq1FGXn0gBuQ?rlkey=fjbi7nbcp0w58gzh3vqc4drfs&st=ptzclypk&dl=0">Download CV</a>
+
 ## <span style="color: #00579C;">Research Interests</span>
 Monetary Policy, Macrofinance, Chinese Economy, and International Finance
 ## <span style="color: #00579C;">Education</span>
