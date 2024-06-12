@@ -17,27 +17,27 @@ This is a short version of my CV. My full CV can be downloaded here: [C.V.](http
 Monetary Policy, Macrofinance, Chinese Economy, and International Finance
 
 ## <span style="color: #00579C;">Education</span>
-**The University of California, Santa Cruz** <span style="display: inline-block; width: 200px; text-align: right;">Sep. 2018 - Jun. 2024</span>  
-*Ph.D. / M.A. in Economics*
+*Ph.D. / M.A. in Economics*, **The University of California, Santa Cruz** (Sep. 2018 - Jun. 2024)  
 
-**The California State University, Fullerton** <span style="display: inline-block; width: 200px; text-align: right;">Aug. 2015 - May. 2017</span>  
-*M.A. in Economics*
 
-**The University of California, Irvine** <span style="display: inline-block; width: 200px; text-align: right;">Sep. 2013 - Jun. 2015</span>  
-*B.A. in Economics*
+*M.A. in Economics*, **The California State University, Fullerton** (Aug. 2015 - May. 2017)  
 
-**El Camino College** <span style="display: inline-block; width: 200px; text-align: right;">Sep. 2011 - Jun. 2013</span>  
-*A.A. in Economics*
+
+*B.A. in Economics*, **The University of California, Irvine** (Sep. 2013 - Jun. 2015)  
+
+
+*A.A. in Economics*, **El Camino College** (Sep. 2011 - Jun. 2013)  
+
 
 ## <span style="color: #00579C;">Academic Positions / Experience</span>
-**Vassar College** <span style="display: inline-block; width: 200px; text-align: right;">Aug. 2024 - Present</span>  
-*Assistant Professor*
+*Assistant Professor*, **Vassar College** (Aug. 2024 - Present)  
 
-**The Federal Reserve Bank of Boston** <span style="display: inline-block; width: 200px; text-align: right;">Apr. 2022 - Jun. 2022</span>  
-*2024 Spring Dissertation Fellow*
 
-**Saddleback College** <span style="display: inline-block; width: 200px; text-align: right;">Aug. 2017 - Present</span>  
-*Associate Faculty*
+*2024 Spring Dissertation Fellow*, **The Federal Reserve Bank of Boston** (Apr. 2022 - Jun. 2022)  
+
+
+*Associate Faculty*, **Saddleback College** (Aug. 2017 - Present) 
+
 
 ## <span style="color: #00579C;">Invited Seminars and Conference Presentations</span>
 **2024**: The Chinese Economists Society North America Conference, Bucknell College; WEAI 99th Annual Conference, Seattle; Asian Economic Development Conference, Seoul National University; NBER China Working Group Fall Meeting, Liaoning University; Haverford College Seminar  
