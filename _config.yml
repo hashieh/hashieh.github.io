@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Harrison Shieh"
+title                    : "Harrison Shieh, Ph.D."
 title_separator          : "-"
 name                     : &name "Harrison Shieh"
 description              : &description "Assistant Professor of Economics"
@@ -22,7 +22,7 @@ repository               : "hashieh.github.io"
 author:
   # Biographic information
   avatar           : "headshot.png"
-  name             : "Harrison Shieh"
+  name             : "Harrison Shieh, Ph.D."
   chname           : # "謝博文"
   bio              : "Assistant Professor of Economics "
   location         : # "Poughkeepsie, New York"
