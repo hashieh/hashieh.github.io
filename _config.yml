@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Harrison Shieh, Ph.D."
+title                    : "Harrison Shieh | Vassar College"
 title_separator          : "-"
 name                     : &name "Harrison Shieh"
 description              : &description "Assistant Professor of Economics"
