@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-This is a short version of my CV. My full CV can be downloaded here: <a href="www.dropbox.com/scl/fo/88tgphinc869rw4qku3gh/AA8YQyNe0R3uq1FGXn0gBuQ?rlkey=fjbi7nbcp0w58gzh3vqc4drfs&st=ptzclypk&dl=0">Download CV</a>
+This is a short version of my CV. My full CV can be downloaded by clicking the link on the sidebar. 
 
 ## <span style="color: #00579C;">Research Interests</span>
 Monetary Policy, Macrofinance, Chinese Economy, and International Finance
