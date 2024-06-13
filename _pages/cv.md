@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-This is a short version of my CV. My full CV can be downloaded by clicking the link on the sidebar. 
+This is a short version of my CV. My full CV can be downloaded by clicking the link on the sidebar. If the Dropbox link does not work, a static version can be found here: [C.V.](/files/harrison_shiehCV.pdf)
 
 ## <span style="color: #00579C;">Research Interests</span>
 Monetary Policy, Macrofinance, Chinese Economy, and International Finance
