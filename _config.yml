@@ -239,9 +239,9 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: talks
+      type: pages
     values:
-      layout: talks
+      layout: single
       author_profile: true
       share: false
       comments: false
