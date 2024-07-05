@@ -9,7 +9,15 @@ location: "Online"
 ---
 
 ## Course Description
-A more formal introduction to macroeconomic theory. The course focuses on the determinants of growth, both in the long-run and short-run. We will emphasize how economists think about modeling the macroeconomy, as well as explore: 1) the factors of production, 2) business cycles, 3) monetary policy, 4) fiscal policy, 5) the financial system, and 6) labor markets. Students will be exposed to some basic data analysis using spreadsheet software, a soft introduction to using software to solve economic models, as well as construct economic models by hand. Near the end of the course, students will apply these skills to various historical economic episodes by modeling various financial crises using the models learned in the class.
+
+**Microeconomics:** Study of price theory, including supply and demand and marginal analysis.
+Topics include consumer and firm behavior, the environment, income distribution, and antitrust.
+
+**Macroeconomics:** Economic analysis of theories of income determination including national
+income measurement, unemployment, inflation, economic growth, monetary and fiscal policy,
+banking and money creation, and international finance. Explores consumption and saving,
+investment, government spending, exports, and imports. 
+
 
 ## Semesters Taught 
 Fall 2017 - Present 
