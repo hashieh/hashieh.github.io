@@ -1,5 +1,5 @@
 ---
-title: "Intermediate Macroeconomics"
+title: "Econ 200: Intermediate Macroeconomics"
 collection: teaching
 type: "Undergraduate"
 permalink: /teaching/F24_Macro
