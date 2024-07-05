@@ -28,7 +28,7 @@ author:
   location         : # "Poughkeepsie, New York"
   employer         : "Vassar College"
   uri              : # URL
-  email            : "hashieh@ucsc.edu" 
+  email            : "hshieh@vassar.edu" 
   cv               : "https://www.dropbox.com/scl/fo/88tgphinc869rw4qku3gh/AA8YQyNe0R3uq1FGXn0gBuQ?rlkey=fjbi7nbcp0w58gzh3vqc4drfs&st=ptzclypk&dl=0"
 
   # Academic websites
@@ -239,7 +239,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: pages
+      type: teaching
     values:
       layout: single
       author_profile: true
