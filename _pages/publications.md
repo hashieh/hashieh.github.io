@@ -18,9 +18,12 @@ author_profile: true
 <br>
 
 <a href="https://doi.org/10.1016/j.jimonfin.2024.103078" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Open-Access Download</a>
+
 <a href="/files/ChinaMPFactors_Dec2019.xlsx" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Chinese Monetary Policy Factors Data (Jun 2006 - Dec 2019) </a>
-<a href="/files/TargetFactor.png" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Target Factor Visualization </a>
-<a href="/files/PathFactor.png" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Path Factor Visualization </a>
+
+<a href="/files/TargetFactorShare.png" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Target Factor Visualization </a>
+
+<a href="/files/PathFactorShare.png" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Path Factor Visualization </a>
 
 <h1 style="text-align: center;"> Working Papers </h1>
 ---
