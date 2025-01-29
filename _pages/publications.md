@@ -28,7 +28,7 @@ author_profile: true
 <h1 style="text-align: center;"> Working Papers </h1>
 ---
 ## Journey to the (North, South, East, and) West: Global Spillovers of Chinese Monetary Policy
-### Joint w/ Anirban Sanyal. *Working Paper*, 2024. 
+### Joint w/ Anirban Sanyal. *Working Paper (Under Review)*, 2024. 
 
 **Abstract**: We characterize and evaluate how Chinese monetary policy shocks are transmitted globally by examining the role production linkages play in Chinese monetary policy shock transmission through global stock returns. Using a spatial autoregression with identified monetary policy shocks, we explore how Chinese monetary policy propagate both upstream and downstream through supply chains. Firms on both ends of the Chinese production network show negative country-industry level equity returns in response to a contractionary monetary policy shock. Notably, most of the observed equity responses to monetary policy shocks can be attributed to the network effect of firms being connected across global supply chains, highlighting China's importance in supply chains. We attribute the heterogeneity in equity responses across countries and industries to a country's degree of home-bias by simulating a standard small-open economy model with supply chain integration. Our results reveal the importance supply chains play in the transmission of Chinese monetary policy.
 
