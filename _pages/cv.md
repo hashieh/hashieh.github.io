@@ -42,11 +42,13 @@ Monetary Policy, Macrofinance, Chinese Economy, and International Finance
 **Saddleback College** (Aug. 2017 - Present) 
 
 ## <span style="color: #00579C;">Invited Seminars and Conference Presentations</span>
+
+**2025** Midwest Macro, KC Fed; 7th Annual China International Conference in Macro, Wuhan University; Asian Economic Development Conference, Peking University
 **2024**: The Chinese Economists Society North America Conference, Bucknell College; WEAI 99th Annual Conference, Seattle; Asian Economic Development Conference, Seoul National University; NBER China Working Group Fall Meeting, Liaoning University; Haverford College Seminar  
 **2022**: CSU Fullerton Department Brownbag
 
 ## <span style="color: #00579C;">Referee Service</span>
-Journal of International Money and Finance; Review of World Economics
+Journal of International Money and Finance; Review of World Economics; Emerging Markets Review
 
 
 
