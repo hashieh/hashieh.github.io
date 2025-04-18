@@ -49,6 +49,15 @@ author_profile: true
 <a href="https://www.dropbox.com/scl/fi/98b9zejekfnpkmukcmnwz/ChinaShadowMP_Manuscript_v1.pdf?rlkey=hllynt18v7fl3xvb5sfl8yfkp&dl=0" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Download Paper</a>
 
 
+<h1 style="text-align: center;"> Works in Progress </h1>
+---
+## US Anti-Inflationary Policy and Emerging Economies: 1980s vs 2020s
+### Joint w/ Drishan Banerjee and Galina Hale, 2025. 
 
+---
+## Policy News Shocks and Monetary Policy: Evidence from China
+### Joint w/ Yifan Si, 2025. 
 
-
+---
+## A Narrative Measure of Indian Monetary Policy
+### Joint w/ Anirban Sanyal, 2025. 
