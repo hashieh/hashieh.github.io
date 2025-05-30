@@ -21,7 +21,7 @@ author_profile: true
 
 <a href="/files/ChinaMPFactors_Dec2019.xlsx" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Chinese Monetary Policy Factors Data (Jun 2006 - Dec 2019)* </a> 
 
-*Errata: Old version off file had incorrect announcement date of 6/21/06. This has been corrected to 7/21/06. 
+*Errata: Old version of file had incorrect announcement date of 6/21/06. This has been corrected to 7/21/06. File is current as of May 30th, 2025.
 
 <a href="/files/TargetFactorShare.png" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Target Factor Visualization </a>
 
