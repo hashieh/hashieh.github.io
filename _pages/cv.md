@@ -50,7 +50,7 @@ Monetary Policy, Macrofinance, Chinese Economy, and International Finance
 **2022**: CSU Fullerton Department Brownbag
 
 ## <span style="color: #00579C;">Referee Service</span>
-Journal of International Money and Finance; Review of World Economics; Emerging Markets Review
+Journal of Money, Credit, and Banking; Journal of International Money and Finance; Review of World Economics; Emerging Markets Review
 
 
 
