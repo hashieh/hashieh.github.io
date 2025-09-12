@@ -38,7 +38,7 @@ author_profile: true
 **Recommended Citation**: Sanyal, Anirban and Harrison Shieh. (2024). "Journey to the (North, South, East, and) West: Global Spillovers of Chinese Monetary Policy." *Working Paper*.
 <br>
 
-<a href="https://www.dropbox.com/scl/fi/p0v4uft876uvmki9kid4i/PBOCGlobalSpillovers.pdf?rlkey=ufp7dmio3ay2l38ntshugrd7p&dl=0" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Download Paper</a> <a href="https://www.dropbox.com/scl/fi/p0v4uft876uvmki9kid4i/PBOCGlobalSpillovers.pdf?rlkey=ufp7dmio3ay2l38ntshugrd7p&dl=0" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Job Talk Slides</a>
+<a href="https://www.dropbox.com/scl/fi/p0v4uft876uvmki9kid4i/PBOCGlobalSpillovers.pdf?rlkey=ufp7dmio3ay2l38ntshugrd7p&dl=0" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Download Paper</a> <a href="https://www.dropbox.com/scl/fi/p4ozodj15bcogbz5eo2l8/HarrisonShieh_PBOCSpillovers.pdf?rlkey=n31ko24twqha3fqmwh94qcn45&dl=0" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Slides</a>
 
 ## What They Do in the Shadows: Chinese Shadow Credit Growth and Monetary Policy
 ### *UC Santa Cruz CAFIN Working Paper No. 2216*, 2021. 
