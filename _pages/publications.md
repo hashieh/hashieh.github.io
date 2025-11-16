@@ -21,10 +21,9 @@ author_profile: true
 
 <a href="/files/ChinaMPFactors_June2025" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Chinese Monetary Policy Factors Data (Jun 2006 - June 2025)* </a> 
 
-*Notes: 
-## Factors updated to June 2025. Additional announcements were added to the original 2006-2019 sample upon review of PBOC announcements.  
-
-## Original factors are inaccurate, please use the above. Since is PCA to sample lenght, contact me if you require an estimated truncated sample.
+**Notes:**
+- <u>**Factors updated to June 2025.**</u> Additional announcements were added to the original 2006–2019 sample upon review of PBOC announcements.  
+- <u>**Original factors are inaccurate; please use the updated set.**</u> Since the factors are PCA-estimated over the full sample length, contact me if you require a truncated-sample version.
 
 <a href="/files/TargetFactorShare.png" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Target Factor Visualization (2006-2025) </a>
 
