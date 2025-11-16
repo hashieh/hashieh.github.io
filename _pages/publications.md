@@ -19,13 +19,16 @@ author_profile: true
 
 <a href="https://doi.org/10.1016/j.jimonfin.2024.103078" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Open-Access Download</a>
 
-<a href="/files/ChinaMPFactors_Dec2019.xlsx" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Chinese Monetary Policy Factors Data (Jun 2006 - Dec 2019)* </a> 
+<a href="/files/ChinaMPFactors_June2025" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Chinese Monetary Policy Factors Data (Jun 2006 - June 2025)* </a> 
 
-*Errata: Old version of file had incorrect announcement date of 6/21/06. This has been corrected to 7/21/06. File is current as of May 30th, 2025.
+*Notes: 
+## Factors updated to June 2025. Additional announcements were added to the original 2006-2019 sample upon review of PBOC announcements.  
 
-<a href="/files/TargetFactorShare.png" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Target Factor Visualization </a>
+## Original factors are inaccurate, please use the above. Since is PCA to sample lenght, contact me if you require an estimated truncated sample.
 
-<a href="/files/PathFactorShare.png" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Path Factor Visualization </a>
+<a href="/files/TargetFactorShare.png" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Target Factor Visualization (2006-2025) </a>
+
+<a href="/files/PathFactorShare.png" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Path Factor Visualization (2006-2025) </a>
 
 <h1 style="text-align: center;"> Working Papers </h1>
 ---
