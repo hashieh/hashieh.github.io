@@ -25,9 +25,9 @@ author_profile: true
 - **Factors updated to June 2025.** Additional announcements were added to the original 2006–2019 sample upon review of PBOC announcements.  
 - **Original factors are inaccurate; please use the updated set.** Since the factors are PCA-estimated over the full sample length, contact me if you require a truncated-sample version.
 
-<a href="/files/TargetFactorShare.png" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Target Factor Visualization (2006-2025) </a>
+<a href="/files/TargetFullShare.png" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Target Factor Visualization (2006-2025) </a>
 
-<a href="/files/PathFactorShare.png" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Path Factor Visualization (2006-2025) </a>
+<a href="/files/PathFullShare.png" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Path Factor Visualization (2006-2025) </a>
 
 <h1 style="text-align: center;"> Working Papers </h1>
 ---
