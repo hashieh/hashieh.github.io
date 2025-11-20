@@ -19,7 +19,7 @@ author_profile: true
 
 <a href="https://doi.org/10.1016/j.jimonfin.2024.103078" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Open-Access Download</a>
 
-<a href="/files/ChinaMPFactors_June2025" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Chinese Monetary Policy Factors Data (Jun 2006 - June 2025)* </a> 
+<a href="/files/ChinaMPFactors_June2025.xlsx" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Chinese Monetary Policy Factors Data (Jun 2006 - June 2025)* </a> 
 
 **Notes:**
 - **Factors updated to June 2025.** Additional announcements were added to the original 2006–2019 sample upon review of PBOC announcements.  
