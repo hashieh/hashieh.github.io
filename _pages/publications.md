@@ -32,7 +32,7 @@ author_profile: true
 <h1 style="text-align: center;"> Working Papers </h1>
 ---
 ## Journey to the (North, South, East, and) West: Global Spillovers of Chinese Monetary Policy
-### Joint w/ Anirban Sanyal. *Working Paper (Revisions Requested at the European Economic Review) *, 2025. 
+### Joint w/ Anirban Sanyal. *UC Santa Cruz CAFIN Working Paper No. 2512* (Revisions Requested at the European Economic Review), 2025. 
 
 **Abstract**: We characterize and evaluate the role production linkages play in the global transmission of Chinese monetary policy shocks through global stock returns. Using a spatial autoregression with identified monetary policy shocks, we explore how Chinese monetary policy propagates upstream and downstream through a supply-chain channel of monetary policy. Firms on both ends of the Chinese production network show negative country-industry level annualized equity returns in response to a contractionary monetary policy shock. Notably, 70-80\%  of observed equity responses to Chinese monetary policy shocks can be attributed to the network effect of firms being connected across global supply chains, suggesting that the supply-chain channel is China's dominant policy transmission channel. Our results highlight the role global supply chains play in China's increasing influence on global markets. 
 
