@@ -16,10 +16,14 @@
 
 <figure class="{{ gallery_layout }} {{ include.class }}">
   {% for img in gallery %}
+    {% assign url_first = img.url | slice: 0, 1 %}
+    {% assign path_first = img.image_path | slice: 0, 1 %}
     {% if img.url %}
       <a href=
         {% if img.url contains "://" %}
           "{{ img.url }}"
+        {% elsif url_first == "/" %}
+          "{{ img.url | prepend: base_path }}"
         {% else %}
           "{{ img.url | prepend: "/images/" | prepend: base_path }}"
         {% endif %}
@@ -28,6 +32,8 @@
         <img src=
           {% if img.image_path contains "://" %}
             "{{ img.image_path }}"
+          {% elsif path_first == "/" %}
+            "{{ img.image_path | prepend: base_path }}"
           {% else %}
             "{{ img.image_path | prepend: "/images/" | prepend: base_path }}"
           {% endif %}
@@ -37,6 +43,8 @@
       <img src=
         {% if img.image_path contains "://" %}
           "{{ img.image_path }}"
+        {% elsif path_first == "/" %}
+          "{{ img.image_path | prepend: base_path }}"
         {% else %}
           "{{ img.image_path | prepend: "/images/" | prepend: base_path }}"
         {% endif %}
