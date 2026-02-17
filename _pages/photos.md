@@ -20,4 +20,4 @@ gallery:
 
 ## Just Some (Super Amateur™) Photos I Took On My Travels
 
-{% include gallery %}
+{% include gallery class="photos-gallery" %}
