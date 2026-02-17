@@ -21,7 +21,7 @@ repository               : "hashieh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot.jpeg"
+  avatar           : "profile/headshot.jpeg"
   name             : "Harrison Shieh, Ph.D." 
   chname           : # "謝博文"
   bio              : "Assistant Professor of Economics "

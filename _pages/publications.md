@@ -32,7 +32,7 @@ author_profile: true
 <h1 style="text-align: center;"> Working Papers </h1>
 ---
 ## Journey to the (North, South, East, and) West: Global Spillovers of Chinese Monetary Policy
-### Joint w/ Anirban Sanyal. *Working Paper (Revisions Requested at ** European Economic Review **)*, 2024. 
+### Joint w/ Anirban Sanyal. *Working Paper (Revisions Requested at the European Economic Review) *, 2025. 
 
 **Abstract**: We characterize and evaluate the role production linkages play in the global transmission of Chinese monetary policy shocks through global stock returns. Using a spatial autoregression with identified monetary policy shocks, we explore how Chinese monetary policy propagates upstream and downstream through a supply-chain channel of monetary policy. Firms on both ends of the Chinese production network show negative country-industry level annualized equity returns in response to a contractionary monetary policy shock. Notably, 70-80\%  of observed equity responses to Chinese monetary policy shocks can be attributed to the network effect of firms being connected across global supply chains, suggesting that the supply-chain channel is China's dominant policy transmission channel. Our results highlight the role global supply chains play in China's increasing influence on global markets. 
 
@@ -57,6 +57,9 @@ author_profile: true
 ---
 ## US Anti-Inflationary Policy and Emerging Economies: 1980s vs 2020s
 ### Joint w/ Drishan Banerjee and Galina Hale, 2025. 
+
+**Abstract**: The rise in inflation that followed the COVID-19 pandemic raised concerns about the possible impacts of anti-inflationary policies, especially in the U.S. In particular, there was a concern about a repetition of the 1982 sudden stop in capital flows to emerging economies if interest rates in advanced economies increase substantially. Yet, as of 2025, a global recession has been avoided even though we did observe current account reversals. We evaluate a large set of factors that could potentially explain an improvement in global economic resilience in the recent episode. Relying on both, time series variation and cross-country heterogeneity of these factors, we find that the following are likely to have played an important role: credibility and effectiveness of monetary policy, fiscal space, and reduced vulnerability to external shocks. We further establish that financial development and foreign reserve accumulation do not appear to contribute to these differences, while reduced reliance on foreign-currency external debt played an important role.
+
 
 ---
 ## Policy News Shocks and Monetary Policy: Evidence from China
