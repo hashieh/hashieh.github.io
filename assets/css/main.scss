@@ -46,17 +46,29 @@
   column-gap: 1rem;
 }
 
-.page__content figure.photos-gallery > a {
+.page__content figure.photos-gallery .gallery__item {
   display: inline-block;
   width: 100%;
   margin: 0 0 1rem;
   break-inside: avoid;
 }
 
+.page__content figure.photos-gallery .gallery__item > a {
+  display: block;
+}
+
 .page__content figure.photos-gallery img {
   display: block;
   width: 100%;
   height: auto;
+}
+
+.page__content figure.photos-gallery .gallery__caption {
+  margin: 0.5rem 0 0;
+  font-size: 12px;
+  line-height: 1.35;
+  text-align: center;
+  font-family: "Malgun Gothic", "Apple SD Gothic Neo", "Noto Sans CJK KR", sans-serif;
 }
 
 @media (max-width: 900px) {
