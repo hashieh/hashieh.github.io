@@ -4,10 +4,13 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-<br>
-
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+<h2>Courses</h2>
+
+{% assign teaching_posts = site.teaching | sort: "date" | reverse %}
+<ul>
+{% for post in teaching_posts %}
+  <li><a href="{{ post.url | prepend: base_path }}">{{ post.title }}</a></li>
 {% endfor %}
+</ul>

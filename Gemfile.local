@@ -1,0 +1,10 @@
+source "https://rubygems.org"
+
+gem "ffi", "~> 1.16.3"
+gem "jekyll", "~> 4.2.2"
+gem "jekyll-feed", "~> 0.17"
+gem "jekyll-sitemap", "~> 1.4"
+gem "jekyll-paginate", "~> 1.1"
+gem "jekyll-gist", "~> 1.5"
+gem "jekyll-redirect-from", "~> 0.16"
+gem "webrick", "~> 1.8"
