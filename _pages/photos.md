@@ -3,7 +3,6 @@ layout: single
 title: ""
 permalink: /photos/
 author_profile: true
-
 asian_2024_gallery: 
   - image_path: images/gallery/DSCF4553.JPG
     url: images/gallery/DSCF4553.JPG
@@ -24,7 +23,6 @@ europe_2023_gallery:
   - image_path: /images/gallery/000095030026.jpg
     url: /images/gallery/000095030026.jpg
     title: "Vatican Museums, Vatican City. <br> Shot on: Canon AE-5P using Ilford HP-5"
-
 korea_2023_gallery:
   - image_path: /images/gallery/000024.jpg
     url: /images/gallery/000024.jpg
@@ -36,8 +34,7 @@ korea_2023_gallery:
 
 ### Hong Kong, Taiwan, Korea, and Japan 2024 
 
-
-
+{% include gallery id="asian_2024_gallery" class="photos-gallery" %}
 
 ### Europe 2023
 
