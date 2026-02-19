@@ -29,7 +29,7 @@
           {% else %}
             "{{ img.url | prepend: "/images/" | prepend: base_path }}"
           {% endif %}
-          {% if caption_text %}title="{{ caption_text }}"{% endif %}
+          {% if caption_text %}title="{{ caption_text | strip_html | strip_newlines }}"{% endif %}
         >
           <img src=
             {% if img.image_path contains "://" %}

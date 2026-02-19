@@ -4,12 +4,12 @@ title: ""
 permalink: /photos/
 author_profile: true
 asian_2024_gallery: 
-  - image_path: images/gallery/DSCF4553.JPG
-    url: images/gallery/DSCF4553.JPG
-    title: "Tokyo, Japan. <br> Shot On: Fujifilm XT-30 II using Ilford HP-5 Simulation  
-  - image_path: images/gallery/DSCF7141.JPG
-    url: images/gallery/DSCF7141.JPG
-    title: "Shifen Old Street Area (十分老街), Taiwan. <br> Shot on: Fujifilm XT-30 II using Ilford HP-T Simulation
+  - image_path: /images/gallery/DSCF4553.JPG
+    url: /images/gallery/DSCF4553.JPG
+    title: "Tokyo, Japan. <br> Shot On: Fujifilm XT-30 II using Ilford HP-5 Simulation"
+  - image_path: /images/gallery/DSCF7141.JPG
+    url: /images/gallery/DSCF7141.JPG
+    title: "Shifen Old Street Area (十分老街), Taiwan. <br> Shot on: Fujifilm XT-30 II using Ilford HP-T Simulation"
 europe_2023_gallery:
   - image_path: /images/gallery/000094980032.jpg
     url: /images/gallery/000094980032.jpg
