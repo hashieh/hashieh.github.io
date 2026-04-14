@@ -27,10 +27,28 @@ korea_2023_gallery:
   - image_path: /images/gallery/000024.jpg
     url: /images/gallery/000024.jpg
     title: "Flower Road (녹산로), Jeju Island. <br> Shot on: Canon AE-5P using Ultramax 400"
+portugal_2026_gallery:
+  - image_path: /images/gallery/DSCF9838.jpg
+    url: /images/gallery/DSCF9838.jpg
+    title: "Porto, Portugal. <br> Shot on: Fujifilm XT-30 II using Ilford HP-5 Simulation"
+  - image_path: /images/gallery/DSCF9465.jpg
+    url: /images/gallery/DSCF9465.jpg
+    title: "Lisbon, Portugal. <br> Shot on: Fujifilm XT-30 II using Ilford HP-5 Simulation"
+  - image_path: /images/gallery/DSCF9096.jpg
+    url: /images/gallery/DSCF9096.jpg
+    title: "Sintra, Portugal. <br> Shot on: Fujifilm XT-30 II using Ilford HP-5 Simulation"
+  - image_path: /images/gallery/DSCF0020.jpg
+    url: /images/gallery/DSCF0020.jpg
+    title: "Porto, Portugal. <br> Shot on: Fujifilm XT-30 II using Portra 400 Simulation"
+  - image_path: /images/gallery/DSCF9800.jpg
+    url: /images/gallery/DSCF9800.jpg
+    title: "Porto, Portugal. <br> Shot on: Fujifilm XT-30 II using Portra 400 Simulation"
 ---
 
-## Just Some (Super Amateur™) Photos I Took On My Travels
+## Just Some Super Amateur™ Photos I Took On My Travels. 
 
+### Portugal 2026 
+{% include gallery id="portugal_2026_gallery" class="photos-gallery" %}
 
 ### Hong Kong, Taiwan, Korea, and Japan 2024 
 
