@@ -28,20 +28,20 @@ korea_2023_gallery:
     url: /images/gallery/000024.jpg
     title: "Flower Road (녹산로), Jeju Island. <br> Shot on: Canon AE-5P using Ultramax 400"
 portugal_2026_gallery:
-  - image_path: /images/gallery/DSCF9838.jpg
-    url: /images/gallery/DSCF9838.jpg
+  - image_path: /images/gallery/DSCF9838.JPG
+    url: /images/gallery/DSCF9838.JPG
     title: "Porto, Portugal. <br> Shot on: Fujifilm XT-30 II using Ilford HP-5 Simulation"
-  - image_path: /images/gallery/DSCF9465.jpg
-    url: /images/gallery/DSCF9465.jpg
+  - image_path: /images/gallery/DSCF9465.JPG
+    url: /images/gallery/DSCF9465.JPG
     title: "Lisbon, Portugal. <br> Shot on: Fujifilm XT-30 II using Ilford HP-5 Simulation"
-  - image_path: /images/gallery/DSCF9096.jpg
-    url: /images/gallery/DSCF9096.jpg
+  - image_path: /images/gallery/DSCF9096.JPG
+    url: /images/gallery/DSCF9096.JPG
     title: "Sintra, Portugal. <br> Shot on: Fujifilm XT-30 II using Ilford HP-5 Simulation"
-  - image_path: /images/gallery/DSCF0020.jpg
-    url: /images/gallery/DSCF0020.jpg
+  - image_path: /images/gallery/DSCF0020.JPG
+    url: /images/gallery/DSCF0020.JPG
     title: "Porto, Portugal. <br> Shot on: Fujifilm XT-30 II using Portra 400 Simulation"
-  - image_path: /images/gallery/DSCF9800.jpg
-    url: /images/gallery/DSCF9800.jpg
+  - image_path: /images/gallery/DSCF9800.JPG
+    url: /images/gallery/DSCF9800.JPG
     title: "Porto, Portugal. <br> Shot on: Fujifilm XT-30 II using Portra 400 Simulation"
 ---
 
@@ -61,4 +61,3 @@ portugal_2026_gallery:
 ### Korea 2023
 
 {% include gallery id="korea_2023_gallery" class="photos-gallery" %}
-
