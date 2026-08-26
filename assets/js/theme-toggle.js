@@ -71,7 +71,9 @@
     var links = document.querySelectorAll('a[href]');
 
     links.forEach(function (link) {
-      if (link.getAttribute('href').charAt(0) === '#') {
+      if (link.getAttribute('href').charAt(0) === '#' || link.closest('#site-nav')) {
+        link.removeAttribute('target');
+        link.removeAttribute('rel');
         return;
       }
 
