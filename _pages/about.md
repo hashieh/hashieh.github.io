@@ -14,12 +14,16 @@ redirect_from:
   <h2 id="recent-updates-heading">Recent Updates</h2>
   <div class="recent-updates__list">
     <div class="recent-update">
-      <time class="recent-update__date" datetime="2026-06">July 2026</time>
-      <p class="recent-update__text">I am now on sabbatical until January! I have plans to visit UC Irvine between 9/24 and 10/24 as well as the Hong Kong University of Science and Tech (HKUST) between 10/29 and 11/4. Come say hi if you're around! </p>
+      <time class="recent-update__date" datetime="2026-08">August 26th 2026</time>
+      <p class="recent-update__text">A working paper version of <em>This Time Is (Mostly) Different: U.S. Tightening Cycles and Global Resilience in the 1980s vs 2020s</em>, joint with Drishan Banerjee and Galina Hale (<a href="https://cepr.org/publications/dp21874">CEPR</a>; <a aria-disabled="true" title="NBER working paper link coming soon">NBER</a>).</p>
     </div>
     <div class="recent-update">
-      <time class="recent-update__date" datetime="2026-08">August 2026</time>
+      <time class="recent-update__date" datetime="2026-08">August 5th 2026</time>
       <p class="recent-update__text">Quick update. I attended the 2026 LAC Macro conference at St. Olaf and presented preliminary work on political communications and Chinese monetary policy identification.</p>
+    </div>
+    <div class="recent-update">
+      <time class="recent-update__date" datetime="2026-07">July 1st 2026</time>
+      <p class="recent-update__text">I am now on sabbatical until January! I have plans to visit UC Irvine between 9/24 and 10/24 as well as the Hong Kong University of Science and Tech (HKUST) between 10/29 and 11/4. Come say hi if you're around!</p>
     </div>
   </div>
 </section>

@@ -213,7 +213,6 @@ samp {
 .masthead,
 .greedy-nav,
 .greedy-nav .hidden-links,
-.author__urls-wrapper,
 input,
 select,
 textarea {
@@ -280,7 +279,7 @@ table td {
 }
 
 .recent-update__date {
-  color: var(--news-date);
+  color: var(--action-color);
 }
 
 .masthead__inner-wrap {

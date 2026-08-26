@@ -26,7 +26,27 @@
     }
   }
 
+  function sortRecentUpdates() {
+    var list = document.querySelector('.recent-updates__list');
+
+    if (!list) {
+      return;
+    }
+
+    var updates = Array.prototype.slice.call(list.querySelectorAll('.recent-update'));
+    updates.sort(function (first, second) {
+      var firstDate = first.querySelector('time').getAttribute('datetime');
+      var secondDate = second.querySelector('time').getAttribute('datetime');
+      return secondDate.localeCompare(firstDate);
+    });
+
+    updates.forEach(function (update) {
+      list.appendChild(update);
+    });
+  }
+
   setTheme(root.getAttribute('data-theme') || 'light', false);
+  sortRecentUpdates();
 
   if (toggle) {
     toggle.addEventListener('click', function () {
