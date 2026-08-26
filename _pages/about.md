@@ -28,7 +28,7 @@ redirect_from:
   </div>
 </section>
 
-<hr>
+<hr class="about-divider">
 
 I am currently an Assistant Professor at Vassar College and a Research Affiliate at the Center for Analytical Finance at UC Santa Cruz (CAFIN). I am an applied macroeconomist with research interests that lie at the intersection of monetary economics, macrofinance, international finance, and the Chinese Economy. My current projects focus on central bank communications, the transmission of monetary policy, its relationship with financial markets, and the role global value chains play in the transmission of monetary policy, where recent projects primarily work on issues related to the identification of Chinese monetary policy shocks, tracing the global spillovers of Chinese monetary policy, examining the development and growth of shadow finance in China, as well as exploring Indian monetary policy and financial markets.
 

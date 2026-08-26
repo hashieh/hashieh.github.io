@@ -1,5 +1,5 @@
 ---
-title: "Econ 346: International Macroeconomics"
+title: "Econ 348: International Macroeconomics"
 collection: teaching
 type: "Undergraduate"
 permalink: /teaching/international-macroeconomics/

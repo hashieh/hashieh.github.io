@@ -101,6 +101,13 @@
 
 .recent-updates__list {
   margin-top: 0.9rem;
+  scrollbar-color: var(--action-color) transparent;
+  scrollbar-width: thin;
+}
+
+.recent-updates__list.is-scrollable {
+  overflow-y: auto;
+  padding-right: 0.55rem;
 }
 
 .recent-update {
@@ -125,6 +132,41 @@
 
 .recent-update__text {
   margin: 0;
+}
+
+.about-divider {
+  display: block;
+  height: 0;
+  margin: 2.25rem 0;
+  border: 0;
+  border-top: 1px solid var(--site-border);
+}
+
+.teaching-course-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.75rem;
+  margin: 1.5rem auto;
+}
+
+.page__content .teaching-course-button {
+  display: block;
+  width: min(100%, 34rem);
+  padding: 0.65rem 1.25rem;
+  color: var(--action-text);
+  font-weight: 700;
+  text-align: center;
+  text-decoration: none;
+  background-color: var(--action-color);
+  border-radius: 12px;
+}
+
+.page__content .teaching-course-button:hover,
+.page__content .teaching-course-button:focus {
+  color: var(--action-text);
+  background-color: var(--action-color);
+  filter: brightness(1.12);
 }
 
 @media (max-width: 600px) {

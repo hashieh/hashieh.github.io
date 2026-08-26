@@ -8,9 +8,9 @@ author_profile: true
 
 <h2>Courses</h2>
 
-{% assign teaching_posts = site.teaching | sort: "date" | reverse %}
-<p>
+{% assign teaching_posts = site.teaching | sort: "title" %}
+<div class="teaching-course-list">
 {% for post in teaching_posts %}
-  <a href="{{ post.url | prepend: base_path }}" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">{{ post.title }}</a>
+  <a class="teaching-course-button" href="{{ post.url | prepend: base_path }}">{{ post.title }}</a>
 {% endfor %}
-</p>
+</div>

@@ -45,6 +45,28 @@
     });
   }
 
+  function limitRecentUpdates() {
+    var list = document.querySelector('.recent-updates__list');
+
+    if (!list) {
+      return;
+    }
+
+    var updates = Array.prototype.slice.call(list.querySelectorAll('.recent-update'));
+    list.classList.remove('is-scrollable');
+    list.style.maxHeight = '';
+
+    if (updates.length <= 4) {
+      return;
+    }
+
+    list.classList.add('is-scrollable');
+    var visibleHeight = updates.slice(0, 4).reduce(function (height, update) {
+      return height + update.getBoundingClientRect().height;
+    }, 0);
+    list.style.maxHeight = Math.ceil(visibleHeight) + 'px';
+  }
+
   function openLinksInNewTabs() {
     var links = document.querySelectorAll('a[href]');
 
@@ -60,7 +82,10 @@
 
   setTheme(root.getAttribute('data-theme') || 'light', false);
   sortRecentUpdates();
+  limitRecentUpdates();
   openLinksInNewTabs();
+
+  window.addEventListener('resize', limitRecentUpdates);
 
   if (toggle) {
     toggle.addEventListener('click', function () {
