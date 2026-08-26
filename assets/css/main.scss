@@ -105,7 +105,7 @@
 
 .recent-update {
   display: grid;
-  grid-template-columns: 5.75rem minmax(0, 1fr);
+  grid-template-columns: 10rem minmax(0, 1fr);
   gap: 0.8rem;
   align-items: baseline;
   padding: 0.65rem 0;
@@ -118,7 +118,7 @@
 }
 
 .recent-update__date {
-  color: #5e718c;
+  color: var(--action-color);
   font-weight: 700;
   white-space: nowrap;
 }
@@ -276,10 +276,6 @@ table td {
 
 .recent-update--featured {
   background-color: var(--news-highlight);
-}
-
-.recent-update__date {
-  color: var(--action-color);
 }
 
 .masthead__inner-wrap {
