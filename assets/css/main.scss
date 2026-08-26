@@ -152,7 +152,8 @@
 
 .page__content .teaching-course-button {
   display: block;
-  width: min(100%, 34rem);
+  width: 100%;
+  max-width: 34rem;
   padding: 0.65rem 1.25rem;
   color: var(--action-text);
   font-weight: 700;
