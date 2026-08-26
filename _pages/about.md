@@ -19,7 +19,7 @@ redirect_from:
     </div>
     <div class="recent-update">
       <time class="recent-update__date" datetime="2026-08">August 5th 2026</time>
-      <p class="recent-update__text">Quick update. I attended the 2026 LAC Macro conference at St. Olaf and presented preliminary work on political communications and Chinese monetary policy identification.</p>
+      <p class="recent-update__text"> I attended the 2026 LAC Macro conference at St. Olaf and presented preliminary work on political communications and Chinese monetary policy identification.</p>
     </div>
     <div class="recent-update">
       <time class="recent-update__date" datetime="2026-07">July 1st 2026</time>
