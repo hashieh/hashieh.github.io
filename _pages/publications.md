@@ -41,7 +41,7 @@ author_profile: true
 **Recommended Citation**: Sanyal, Anirban and Harrison Shieh. (2024). "Journey to the (North, South, East, and) West: Global Spillovers of Chinese Monetary Policy." *Working Paper*.
 <br>
 
-<a href="https://www.dropbox.com/scl/fi/0ajguot4402b4ys79fnst/PBOCGlobalSpillovers.pdf?rlkey=oil4enaiv7qmkpq7jorz2lboe&dl=0" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Download Paper</a> <a href="https://www.dropbox.com/scl/fi/0ajguot4402b4ys79fnst/PBOCGlobalSpillovers.pdf?rlkey=oil4enaiv7qmkpq7jorz2lboe&dl=0" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Slides</a>
+<a href="https://www.dropbox.com/scl/fi/0ajguot4402b4ys79fnst/PBOCGlobalSpillovers.pdf?rlkey=oil4enaiv7qmkpq7jorz2lboe&dl=0" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Download Paper</a>
 
 ## This Time Is (Mostly) Different: U.S. Tightening Cycles and Global Resilience in the 1980s vs 2020s
 ### Joint w/ Drishan Banerjee and Galina Hale. *NBER Working Paper No. 35673; CEPR Discussion Paper No. DP21874*, 2026.
@@ -51,7 +51,7 @@ author_profile: true
 **Recommended Citation**: Banerjee, Drishan, Galina Hale, and Harrison Shieh. (2026). "This Time Is (Mostly) Different: U.S. Tightening Cycles and Global Resilience in the 1980s vs 2020s." *NBER Working Paper No. 35673*.
 <br>
 
-<a href="https://cepr.org/publications/dp21874" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">CEPR</a>
+<a href="https://cepr.org/publications/dp21874" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">CEPR Discussion Paper No. DP21874</a>
 
 <a aria-disabled="true" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; cursor: default;">NBER Working Paper No. 35673</a>
 
