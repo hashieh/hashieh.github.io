@@ -45,8 +45,22 @@
     });
   }
 
+  function openLinksInNewTabs() {
+    var links = document.querySelectorAll('a[href]');
+
+    links.forEach(function (link) {
+      if (link.getAttribute('href').charAt(0) === '#') {
+        return;
+      }
+
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener');
+    });
+  }
+
   setTheme(root.getAttribute('data-theme') || 'light', false);
   sortRecentUpdates();
+  openLinksInNewTabs();
 
   if (toggle) {
     toggle.addEventListener('click', function () {
