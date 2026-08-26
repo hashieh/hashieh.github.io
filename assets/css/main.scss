@@ -82,3 +82,252 @@
     column-count: 1;
   }
 }
+
+/* Reusable homepage news rows. Add entries in _pages/about.md as updates arise. */
+.recent-updates {
+  margin: 0 0 2.5rem;
+}
+
+.page__content .recent-updates h2 {
+  margin: 0;
+  padding-bottom: 0.6rem;
+  border-bottom: 1px solid #e5e7eb;
+  color: #2d4159;
+  font-size: 1.1em;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.recent-updates__list {
+  margin-top: 0.9rem;
+}
+
+.recent-update {
+  display: grid;
+  grid-template-columns: 5.75rem minmax(0, 1fr);
+  gap: 0.8rem;
+  align-items: baseline;
+  padding: 0.65rem 0;
+}
+
+.recent-update--featured {
+  padding: 0.65rem 0.8rem;
+  background: #edf5fe;
+  border-radius: 4px;
+}
+
+.recent-update__date {
+  color: #5e718c;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.recent-update__text {
+  margin: 0;
+}
+
+@media (max-width: 600px) {
+  .recent-update {
+    grid-template-columns: 1fr;
+    gap: 0.15rem;
+  }
+}
+
+/* Theme tokens and overrides for the legacy Academic Pages styles. */
+:root {
+  color-scheme: light;
+  --site-background: #ffffff;
+  --site-surface: #ffffff;
+  --site-surface-muted: #f4f6f8;
+  --site-text: #4b5055;
+  --site-heading: #2d4159;
+  --site-link: #1976b9;
+  --site-link-hover: #075f9a;
+  --site-border: #e2e6eb;
+  --action-color: #00579c;
+  --action-text: #ffffff;
+  --news-highlight: #edf5fe;
+  --news-date: #5e718c;
+}
+
+html[data-theme="dark"] {
+  color-scheme: dark;
+  --site-background: #121820;
+  --site-surface: #19232e;
+  --site-surface-muted: #24303d;
+  --site-text: #e2e8ee;
+  --site-heading: #f3f6f8;
+  --site-link: #7dc8f3;
+  --site-link-hover: #b2e2fa;
+  --site-border: #394757;
+  --action-color: #1f78b4;
+  --action-text: #ffffff;
+  --news-highlight: #1d2d3e;
+  --news-date: #b2c8dc;
+}
+
+body {
+  background-color: var(--site-background);
+  color: var(--site-text);
+}
+
+a {
+  color: var(--site-link);
+}
+
+a:hover,
+a:focus {
+  color: var(--site-link-hover);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--site-heading);
+}
+
+hr,
+blockquote,
+abbr[title],
+abbr[data-original-title] {
+  border-color: var(--site-border);
+}
+
+p > code,
+a > code,
+li > code,
+figcaption > code,
+td > code,
+pre,
+code,
+kbd,
+samp {
+  background-color: var(--site-surface-muted);
+  border-color: var(--site-border);
+}
+
+.masthead,
+.greedy-nav,
+.greedy-nav .hidden-links,
+.author__urls-wrapper,
+input,
+select,
+textarea {
+  background-color: var(--site-surface);
+  color: var(--site-text);
+}
+
+.masthead,
+.greedy-nav .hidden-links,
+.page__content + .pagination,
+.page__meta + .pagination,
+.page__share + .pagination,
+.page__comments + .pagination,
+input,
+select,
+textarea {
+  border-color: var(--site-border);
+}
+
+.greedy-nav a,
+.greedy-nav .hidden-links a,
+.author__urls a,
+.nav__list a {
+  color: var(--site-text);
+}
+
+.greedy-nav .hidden-links a:hover {
+  background-color: var(--site-surface-muted);
+}
+
+.greedy-nav .hidden-links:after {
+  border-color: var(--site-surface) transparent;
+}
+
+.page__footer,
+table th,
+table tr:nth-child(even) {
+  background-color: var(--site-surface-muted);
+}
+
+table,
+table th,
+table td {
+  border-color: var(--site-border);
+}
+
+.page__content a[style*="background-color: #00579C"] {
+  background-color: var(--action-color) !important;
+  color: var(--action-text) !important;
+}
+
+.page__content span[style*="color: #00579C"] {
+  color: var(--site-link) !important;
+}
+
+.recent-updates__title,
+.page__content .recent-updates h2 {
+  border-bottom-color: var(--site-border);
+  color: var(--site-heading);
+}
+
+.recent-update--featured {
+  background-color: var(--news-highlight);
+}
+
+.recent-update__date {
+  color: var(--news-date);
+}
+
+.masthead__inner-wrap {
+  position: relative;
+  padding-right: 7rem;
+}
+
+.theme-toggle {
+  position: absolute;
+  top: 1em;
+  right: 1em;
+  min-width: 5.5rem;
+  height: 2.5rem;
+  padding: 0 0.65rem;
+  color: var(--site-text);
+  font-family: $sans-serif;
+  font-size: $type-size-7;
+  font-weight: 700;
+  background-color: var(--site-surface-muted);
+  border: 1px solid var(--site-border);
+  border-radius: $border-radius;
+  cursor: pointer;
+}
+
+.theme-toggle:hover,
+.theme-toggle:focus-visible {
+  color: var(--site-heading);
+  border-color: var(--site-link);
+  outline: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  body,
+  .masthead,
+  .greedy-nav,
+  .page__footer,
+  .theme-toggle {
+    transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+  }
+}
+
+@media (max-width: 600px) {
+  .masthead__inner-wrap {
+    padding-right: 6.5rem;
+  }
+
+  .theme-toggle {
+    right: 0.75rem;
+  }
+}
