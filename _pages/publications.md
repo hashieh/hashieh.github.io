@@ -32,15 +32,29 @@ author_profile: true
 <h1 style="text-align: center;"> Working Papers </h1>
 ---
 ## Journey to the (North, South, East, and) West: Global Spillovers of Chinese Monetary Policy
-### Joint w/ Anirban Sanyal. *UC Santa Cruz CAFIN Working Paper No. 2512* (Revisions Requested at the European Economic Review), 2025. 
+### Joint w/ Anirban Sanyal. *UC Santa Cruz CAFIN Working Paper No. 2512* (Revisions Requested at the European Economic Review), 2026. 
 
-**Abstract**: We characterize and evaluate the role production linkages play in the global transmission of Chinese monetary policy shocks through global stock returns. Using a spatial autoregression with identified monetary policy shocks, we explore how Chinese monetary policy propagates upstream and downstream through a supply-chain channel of monetary policy. Firms on both ends of the Chinese production network show negative country-industry level annualized equity returns in response to a contractionary monetary policy shock. Notably, 70-80\%  of observed equity responses to Chinese monetary policy shocks can be attributed to the network effect of firms being connected across global supply chains, suggesting that the supply-chain channel is China's dominant policy transmission channel. Our results highlight the role global supply chains play in China's increasing influence on global markets. 
+**Abstract**: We evaluate the role production linkages play in the global transmission of Chinese monetary policy shocks through global stock returns. Using a heterogeneous spatial autoregression (SAR) with identified Chinese monetary policy shocks, we explore how shocks propagate upstream and downstream through a supply-chain channel of monetary policy. We highlight that the type of monetary policy shock matters: Target shocks transmit almost entirely through supply-chains and Path shocks operate through an additional non-network financial spillover component. On average, firms connected to the Chinese production network show negative country-industry level annualized equity returns in response to contractionary monetary policy. Notably, 86-99% of the observed responses to Target shocks and 47-57% of Path shocks can be attributed to the network effect of firms being connected across global supply-chains, with the downstream component showing a larger effect, indicating that a supply-chain channel is a dominant policy transmission channel for China. We also find that compared with US monetary policy shocks, Chinese shocks do not move global risk measures, with Path responses consistent with expectations or information effects. Our results underscore the role global supply-chains play in China's increasing influence on global markets. 
+
 
 
 **Recommended Citation**: Sanyal, Anirban and Harrison Shieh. (2024). "Journey to the (North, South, East, and) West: Global Spillovers of Chinese Monetary Policy." *Working Paper*.
 <br>
 
 <a href="https://www.dropbox.com/scl/fi/0ajguot4402b4ys79fnst/PBOCGlobalSpillovers.pdf?rlkey=oil4enaiv7qmkpq7jorz2lboe&dl=0" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Download Paper</a> <a href="https://www.dropbox.com/scl/fi/0ajguot4402b4ys79fnst/PBOCGlobalSpillovers.pdf?rlkey=oil4enaiv7qmkpq7jorz2lboe&dl=0" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Slides</a>
+
+## This Time Is (Mostly) Different: U.S. Tightening Cycles and Global Resilience in the 1980s vs 2020s
+### Joint w/ Drishan Banerjee and Galina Hale. *NBER Working Paper No. 35673; CEPR Discussion Paper No. DP21874*, 2026.
+
+**Abstract**: Post-pandemic inflation raised fears that U.S. monetary tightening would trigger a repeat of the 1982 sudden stop in capital flows to emerging economies. Yet as of 2026 no global recession has followed. We establish three stylized facts distinguishing the 1980s from the 2020s, beyond the shift to flexible exchange rates: monetary policy effectiveness, fiscal space, and external vulnerabilities. We rationalize them in a Mundell-Fleming framework with a fiscal space constraint, which predicts a central role for fiscal space in transmitting foreign currency risk-free rate increases. Cross-country evidence confirms that fiscal space shapes economic performance post-tightening.
+
+**Recommended Citation**: Banerjee, Drishan, Galina Hale, and Harrison Shieh. (2026). "This Time Is (Mostly) Different: U.S. Tightening Cycles and Global Resilience in the 1980s vs 2020s." *NBER Working Paper No. 35673*.
+<br>
+
+<a href="https://cepr.org/publications/dp21874" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">CEPR</a>
+
+<a aria-disabled="true" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; cursor: default;">NBER Working Paper No. 35673</a>
+
 
 ## What They Do in the Shadows: Chinese Shadow Credit Growth and Monetary Policy
 ### *UC Santa Cruz CAFIN Working Paper No. 2216*, 2021. 
@@ -53,17 +67,13 @@ author_profile: true
 <a href="https://www.dropbox.com/scl/fi/98b9zejekfnpkmukcmnwz/ChinaShadowMP_Manuscript_v1.pdf?rlkey=hllynt18v7fl3xvb5sfl8yfkp&dl=0" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Download Paper</a>
 
 
+
+
 <h1 style="text-align: center;"> Works in Progress </h1>
----
-## US Anti-Inflationary Policy and Emerging Economies: 1980s vs 2020s
-### Joint w/ Drishan Banerjee and Galina Hale, 2025. 
-
-**Abstract**: The rise in inflation that followed the COVID-19 pandemic raised concerns about the possible impacts of anti-inflationary policies, especially in the U.S. In particular, there was a concern about a repetition of the 1982 sudden stop in capital flows to emerging economies if interest rates in advanced economies increase substantially. Yet, as of 2025, a global recession has been avoided even though we did observe current account reversals. We evaluate a large set of factors that could potentially explain an improvement in global economic resilience in the recent episode. Relying on both, time series variation and cross-country heterogeneity of these factors, we find that the following are likely to have played an important role: credibility and effectiveness of monetary policy, fiscal space, and reduced vulnerability to external shocks. We further establish that financial development and foreign reserve accumulation do not appear to contribute to these differences, while reduced reliance on foreign-currency external debt played an important role.
-
 
 ---
-## Policy News Shocks and Monetary Policy: Evidence from China
-### Joint w/ Yifan Si, 2025. 
+## Political News and Information Shocks: Identifying Chinese Monetary Policy
+### Joint w/ Yifan Si, 2026. 
 
 ---
 ## A Narrative Measure of Indian Monetary Policy

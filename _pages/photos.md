@@ -6,10 +6,10 @@ author_profile: true
 asian_2024_gallery: 
   - image_path: /images/gallery/DSCF4553.JPG
     url: /images/gallery/DSCF4553.JPG
-    title: "Tokyo, Japan. <br> Shot On: Fujifilm XT-30 II using Ilford HP-5 Simulation"
+    title: "Tokyo, Japan. <br> Shot On: Fujifilm X-T30 II using Ilford HP-5 Simulation"
   - image_path: /images/gallery/DSCF7141.JPG
     url: /images/gallery/DSCF7141.JPG
-    title: "Shifen Old Street Area (十分老街), Taiwan. <br> Shot on: Fujifilm XT-30 II using Ilford HP-T Simulation"
+    title: "Shifen Old Street Area (十分老街), Taiwan. <br> Shot on: Fujifilm X-T30 II using Ilford HP-T Simulation"
 europe_2023_gallery:
   - image_path: /images/gallery/000094980032.jpg
     url: /images/gallery/000094980032.jpg
@@ -30,19 +30,19 @@ korea_2023_gallery:
 portugal_2026_gallery:
   - image_path: /images/gallery/DSCF9838.JPG
     url: /images/gallery/DSCF9838.JPG
-    title: "Porto, Portugal. <br> Shot on: Fujifilm XT-30 II using Ilford HP-5 Simulation"
+    title: "Porto, Portugal. <br> Shot on: Fujifilm X-T30 II using Ilford HP-5 Simulation"
   - image_path: /images/gallery/DSCF9465.JPG
     url: /images/gallery/DSCF9465.JPG
-    title: "Lisbon, Portugal. <br> Shot on: Fujifilm XT-30 II using Ilford HP-5 Simulation"
+    title: "Lisbon, Portugal. <br> Shot on: Fujifilm X-T30 II using Ilford HP-5 Simulation"
   - image_path: /images/gallery/DSCF9096.JPG
     url: /images/gallery/DSCF9096.JPG
-    title: "Sintra, Portugal. <br> Shot on: Fujifilm XT-30 II using Ilford HP-5 Simulation"
+    title: "Sintra, Portugal. <br> Shot on: Fujifilm X-T30 II using Ilford HP-5 Simulation"
   - image_path: /images/gallery/DSCF0020.JPG
     url: /images/gallery/DSCF0020.JPG
-    title: "Porto, Portugal. <br> Shot on: Fujifilm XT-30 II using Portra 400 Simulation"
+    title: "Porto, Portugal. <br> Shot on: Fujifilm X-T30 II using Portra 400 Simulation"
   - image_path: /images/gallery/DSCF9800.JPG
     url: /images/gallery/DSCF9800.JPG
-    title: "Porto, Portugal. <br> Shot on: Fujifilm XT-30 II using Portra 400 Simulation"
+    title: "Porto, Portugal. <br> Shot on: Fujifilm X-T30 II using Portra 400 Simulation"
 ---
 
 ## Just Some Super Amateur™ Photos I Took On My Travels. 
