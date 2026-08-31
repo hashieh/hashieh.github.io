@@ -53,7 +53,7 @@ author_profile: true
 
 <a href="https://cepr.org/publications/dp21874" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">CEPR Discussion Paper No. DP21874</a>
 
-<a aria-disabled="true" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; cursor: default;">NBER Working Paper No. 35673</a>
+<a href="https://www.nber.org/papers/w35673" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">NBER Working Paper No. 35673</a>
 
 
 ## What They Do in the Shadows: Chinese Shadow Credit Growth and Monetary Policy

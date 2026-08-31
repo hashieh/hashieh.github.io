@@ -15,7 +15,7 @@ redirect_from:
   <div class="recent-updates__list">
     <div class="recent-update">
       <time class="recent-update__date" datetime="2026-08-26">August 26th 2026</time>
-      <p class="recent-update__text">A working paper version of <em>This Time Is (Mostly) Different: U.S. Tightening Cycles and Global Resilience in the 1980s vs 2020s</em>, joint with Drishan Banerjee and Galina Hale has been posted on NBER and CEPR. (<a href="https://cepr.org/publications/dp21874">CEPR</a>; <a aria-disabled="true" title="NBER working paper link coming soon">NBER</a>).</p>
+      <p class="recent-update__text">A working paper version of <em>This Time Is (Mostly) Different: U.S. Tightening Cycles and Global Resilience in the 1980s vs 2020s</em>, joint with Drishan Banerjee and Galina Hale has been posted on NBER and CEPR. (<a href="https://cepr.org/publications/dp21874">CEPR</a>; <a href="https://www.nber.org/papers/w35673">NBER</a>).</p>
     </div>
     <div class="recent-update">
       <time class="recent-update__date" datetime="2026-08-05">August 5th 2026</time>
