@@ -170,6 +170,19 @@
   filter: brightness(1.12);
 }
 
+.page__content .research-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1rem 0;
+}
+
+.page__content .research-buttons a {
+  margin: 0;
+  padding: 0.45rem 0.75rem !important;
+  font-size: 0.8em !important;
+}
+
 @media (max-width: 600px) {
   .recent-update {
     grid-template-columns: 1fr;

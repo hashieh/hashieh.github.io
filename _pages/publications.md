@@ -17,17 +17,19 @@ author_profile: true
 **Recommended Citation**: Shieh, Harrison. (2024). "Can You Hear Me Now? Identifying the Effect of Chinese Monetary Policy Announcements." *Journal of International Money and Finance*. Vol. 144.
 <br>
 
-<a href="https://doi.org/10.1016/j.jimonfin.2024.103078" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Open-Access Download</a>
-
-<a href="/files/ChinaMPFactors_June2025.xlsx" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Chinese Monetary Policy Factors Data (Jun 2006 - June 2025)* </a> 
+<div class="research-buttons">
+  <a href="https://doi.org/10.1016/j.jimonfin.2024.103078" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Open-Access Download</a>
+  <a href="/files/ChinaMPFactors_June2025.xlsx" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Chinese Monetary Policy Factors Data (Jun 2006 - June 2025)* </a>
+</div>
 
 **Notes:**
 - **Factors updated to June 2025.** Additional announcements were added to the original 2006–2019 sample upon review of PBOC announcements.  
 - **Original factors are inaccurate; please use the updated set.** Since the factors are PCA-estimated over the full sample length, contact me if you require a truncated-sample version.
 
-<a href="/files/TargetFullShare.png" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Target Factor Visualization (2006-2025) </a>
-
-<a href="/files/PathFullShare.png" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Path Factor Visualization (2006-2025) </a>
+<div class="research-buttons">
+  <a href="/files/TargetFullShare.png" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Target Factor Visualization (2006-2025) </a>
+  <a href="/files/PathFullShare.png" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Path Factor Visualization (2006-2025) </a>
+</div>
 
 <h1 style="text-align: center;"> Working Papers </h1>
 ---
@@ -41,7 +43,9 @@ author_profile: true
 **Recommended Citation**: Sanyal, Anirban and Harrison Shieh. (2024). "Journey to the (North, South, East, and) West: Global Spillovers of Chinese Monetary Policy." *Working Paper*.
 <br>
 
-<a href="https://www.dropbox.com/scl/fi/0ajguot4402b4ys79fnst/PBOCGlobalSpillovers.pdf?rlkey=oil4enaiv7qmkpq7jorz2lboe&dl=0" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Download Paper</a>
+<div class="research-buttons">
+  <a href="https://www.dropbox.com/scl/fi/0ajguot4402b4ys79fnst/PBOCGlobalSpillovers.pdf?rlkey=oil4enaiv7qmkpq7jorz2lboe&dl=0" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Download Paper</a>
+</div>
 
 ## This Time Is (Mostly) Different: U.S. Tightening Cycles and Global Resilience in the 1980s vs 2020s
 ### Joint w/ Drishan Banerjee and Galina Hale. *NBER Working Paper No. 35673; CEPR Discussion Paper No. DP21874*, 2026.
@@ -51,9 +55,10 @@ author_profile: true
 **Recommended Citation**: Banerjee, Drishan, Galina Hale, and Harrison Shieh. (2026). "This Time Is (Mostly) Different: U.S. Tightening Cycles and Global Resilience in the 1980s vs 2020s." *NBER Working Paper No. 35673*.
 <br>
 
-<a href="https://cepr.org/publications/dp21874" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">CEPR Discussion Paper No. DP21874</a>
-
-<a href="https://www.nber.org/papers/w35673" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">NBER Working Paper No. 35673</a>
+<div class="research-buttons">
+  <a href="https://cepr.org/publications/dp21874" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">CEPR Discussion Paper No. DP21874</a>
+  <a href="https://www.nber.org/papers/w35673" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">NBER Working Paper No. 35673</a>
+</div>
 
 
 ## What They Do in the Shadows: Chinese Shadow Credit Growth and Monetary Policy
@@ -64,7 +69,9 @@ author_profile: true
 **Recommended Citation**: Shieh, Harrison. (2021). "What They Do in the Shadows: Chinese Shadow Credit Growth and Monetary Policy." *UC Santa Cruz CAFIN Working Paper No. 2216*.
 <br>
 
-<a href="https://www.dropbox.com/scl/fi/98b9zejekfnpkmukcmnwz/ChinaShadowMP_Manuscript_v1.pdf?rlkey=hllynt18v7fl3xvb5sfl8yfkp&dl=0" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Download Paper</a>
+<div class="research-buttons">
+  <a href="https://www.dropbox.com/scl/fi/98b9zejekfnpkmukcmnwz/ChinaShadowMP_Manuscript_v1.pdf?rlkey=hllynt18v7fl3xvb5sfl8yfkp&dl=0" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Download Paper</a>
+</div>
 
 
 
