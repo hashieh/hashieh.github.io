@@ -58,6 +58,7 @@ author_profile: true
 <div class="research-buttons">
   <a href="https://cepr.org/publications/dp21874" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">CEPR Discussion Paper No. DP21874</a>
   <a href="https://www.nber.org/papers/w35673" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">NBER Working Paper No. 35673</a>
+  <a href="https://www.ft.com/content/15de7725-234a-448a-9cc6-12500a47aada" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">FT Alphaville Article</a>
 </div>
 
 
