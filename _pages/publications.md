@@ -44,7 +44,7 @@ author_profile: true
 <br>
 
 <div class="research-buttons">
-  <a href="https://www.dropbox.com/scl/fi/0ajguot4402b4ys79fnst/PBOCGlobalSpillovers.pdf?rlkey=oil4enaiv7qmkpq7jorz2lboe&dl=0" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Download Paper</a>
+  <a href="https://www.dropbox.com/scl/fi/sp8bg10zhucgyf0ol6wwu/PBOCGlobalSpillovers.pdf?rlkey=lbo7eqdnveugiggb1qocibz6o&dl=0" style="display: inline-block; background-color: #00579C; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: inherit; border-radius: 12px; transition: background-color 0.3s;">Download Paper</a>
 </div>
 
 ## This Time Is (Mostly) Different: U.S. Tightening Cycles and Global Resilience in the 1980s vs 2020s
