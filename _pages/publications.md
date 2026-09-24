@@ -63,11 +63,11 @@ author_profile: true
 
 
 ## What They Do in the Shadows: Chinese Shadow Credit Growth and Monetary Policy
-### *UC Santa Cruz CAFIN Working Paper No. 2216*, 2021. 
+### *UC Santa Cruz CAFIN Working Paper No. 2216*, 2025.
 
 **Abstract**: This study seeks to evaluate the effect of Chinese monetary policy shocks on credit creation through the shadow banking sector in Mainland China. Identification is achieved by constructing a measure of monetary policy surprises based on changes to the 1-Year Interest Rate Swaps on the 7-Day Repo Rate on monetary policy announcement dates. A two-stage local projection was then estimated, using the surprise measure as an instrument. The results give two key findings: 1) shadow credit expands in response to contractionary monetary policy, and 2) there is additional evidence of the transmission of monetary policy through the interest rate channel 
 
-**Recommended Citation**: Shieh, Harrison. (2021). "What They Do in the Shadows: Chinese Shadow Credit Growth and Monetary Policy." *UC Santa Cruz CAFIN Working Paper No. 2216*.
+**Recommended Citation**: Shieh, Harrison. (2025). "What They Do in the Shadows: Chinese Shadow Credit Growth and Monetary Policy." *UC Santa Cruz CAFIN Working Paper No. 2216*.
 <br>
 
 <div class="research-buttons">
@@ -81,8 +81,4 @@ author_profile: true
 
 ---
 ## Political News and Information Shocks: Identifying Chinese Monetary Policy
-### Joint w/ Yifan Si, 2026. 
-
----
-## A Narrative Measure of Indian Monetary Policy
-### Joint w/ Anirban Sanyal, 2025. 
+### Joint w/ Yifan Si, 2026.
